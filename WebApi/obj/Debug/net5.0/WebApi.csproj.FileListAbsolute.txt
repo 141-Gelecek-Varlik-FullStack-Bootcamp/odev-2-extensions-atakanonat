@@ -39,3 +39,5 @@
 /Users/atakanonat/dev/C#/odev-2-extensions/WebApi/obj/Debug/net5.0/ref/WebApi.dll
 /Users/atakanonat/dev/C#/odev-2-extensions/WebApi/obj/Debug/net5.0/WebApi.pdb
 /Users/atakanonat/dev/C#/odev-2-extensions/WebApi/obj/Debug/net5.0/WebApi.genruntimeconfig.cache
+/Users/atakanonat/dev/C#/odev-2-extensions/WebApi/bin/Debug/net5.0/Extensions.dll
+/Users/atakanonat/dev/C#/odev-2-extensions/WebApi/bin/Debug/net5.0/Extensions.pdb

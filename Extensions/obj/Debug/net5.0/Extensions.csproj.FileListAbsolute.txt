@@ -1,0 +1,12 @@
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/bin/Debug/net5.0/Extensions.deps.json
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/bin/Debug/net5.0/Extensions.dll
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/bin/Debug/net5.0/ref/Extensions.dll
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/bin/Debug/net5.0/Extensions.pdb
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/Extensions.csproj.AssemblyReference.cache
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/Extensions.AssemblyInfoInputs.cache
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/Extensions.AssemblyInfo.cs
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/Extensions.csproj.CoreCompileInputs.cache
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/Extensions.dll
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/ref/Extensions.dll
+/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/obj/Debug/net5.0/Extensions.pdb

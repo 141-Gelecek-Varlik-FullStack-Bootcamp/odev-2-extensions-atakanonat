@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Extensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Extensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extensions.dll": {}
+        }
+      },
       "Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Extensions/1.0.0": {
+      "type": "project",
+      "path": "../Extensions/Extensions.csproj",
+      "msbuildProject": "../Extensions/Extensions.csproj"
+    },
     "Models/1.0.0": {
       "type": "project",
       "path": "../Models/Models.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Extensions >= 1.0.0",
       "Models >= 1.0.0"
     ]
   },
@@ -51,6 +67,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/Extensions.csproj": {
+              "projectPath": "/Users/atakanonat/dev/C#/odev-2-extensions/Extensions/Extensions.csproj"
+            },
             "/Users/atakanonat/dev/C#/odev-2-extensions/Models/Models.csproj": {
               "projectPath": "/Users/atakanonat/dev/C#/odev-2-extensions/Models/Models.csproj"
             }
